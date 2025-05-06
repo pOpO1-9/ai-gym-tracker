@@ -1,0 +1,16 @@
+{
+  "Monday": [
+    {
+      "exercise": "Bench Press",
+      "sets": 3,
+      "reps": 12,
+      "weight": 80.0
+    },
+    {
+      "exercise": "Dumbbell Bench Press",
+      "sets": 3,
+      "reps": 15,
+      "weight": 45.0
+    }
+  ]
+}
