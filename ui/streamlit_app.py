@@ -309,3 +309,8 @@ with tab6:
         st.success("✅ Program saved!")
         st.rerun()
 
+if __name__ == "__main__":
+    import streamlit.web.cli as stcli
+    import sys
+    sys.argv = ["streamlit", "run", "ui/streamlit_app.py"]
+    sys.exit(stcli.main())
