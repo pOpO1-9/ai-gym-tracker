@@ -1,5 +1,7 @@
 from core.workout_logger import WorkoutLogger
 from core.progress_analyzer import ProgressAnalyzer
+from Core.workout_logger import WorkoutLogger
+from Core.progress_analyzer import ProgressAnalyzer
 from ui.charts import plot_pr_chart, plot_volume_over_time
 from ai.ai_coach import AICoach
 from ai.natural_language_parser import parse_workout_input
